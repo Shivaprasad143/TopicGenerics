@@ -10,3 +10,6 @@ C:\Users\Shiva.Marimallaiah\Documents\Generics2\GenericsNew\obj\Debug\GenericsNe
 C:\Users\Shiva.Marimallaiah\Documents\Generics2\GenericsNew\bin\Debug\GenericsNew.exe
 C:\Users\Shiva.Marimallaiah\Documents\Generics2\GenericsNew\bin\Debug\GenericsNew.pdb
 C:\Users\Shiva.Marimallaiah\Documents\Generics2\GenericsNew\obj\Debug\GenericsNew.csprojResolveAssemblyReference.cache
+C:\Users\Shiva.Marimallaiah\Documents\TopicGenerics\GenericsNew\bin\Debug\GenericsNew.exe.config
+C:\Users\Shiva.Marimallaiah\Documents\TopicGenerics\GenericsNew\obj\Debug\GenericsNew.exe
+C:\Users\Shiva.Marimallaiah\Documents\TopicGenerics\GenericsNew\obj\Debug\GenericsNew.pdb

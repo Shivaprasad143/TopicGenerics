@@ -31,22 +31,19 @@ namespace GenericsNew
                 testfornegative[myCount] = testforpositive[(myCount * -1)];
 
             }
+
             for (int num = 0; num <= 9; num++)
             {
                 Console.WriteLine(testfornegative[num]);
             }
-
             Console.ReadKey();
-
         }
     }
 }
 
-
 public class MyList<T>
 {
     private int size;
-
     private T[] items;
 
     public MyList(int size)
@@ -55,11 +52,10 @@ public class MyList<T>
         this.items = new T[size];
     }
 
-    public T this[int index]    
+    public T this[int index]
     {
         get
         {
-
             var item = items[index];
             return item;
         }
@@ -69,12 +65,10 @@ public class MyList<T>
                 items[index + 1] = value;
 
             else if ((index <= 0))
-
                 items[10 - (index * -1)] = value;
-
         }
     }
 }
-    
+
 
 
